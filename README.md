@@ -1,2 +1,1 @@
-# TRW-Tierlist
-tierlist
+# TRWTierlist
